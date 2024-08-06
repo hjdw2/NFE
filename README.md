@@ -29,7 +29,7 @@ python3 train_exit12.py --sparsity 0.5
 @article{NFE,
   title={Network Fission Ensembles for Low-Cost Self-Ensembles},
   author ={H. {Lee} and J. -S. {Lee}},
-  journal = {arXiv preprint	arXiv:2408.02301}
+  journal = {arXiv preprint arXiv:2408.02301}
   year={2024},
 }
 ```
